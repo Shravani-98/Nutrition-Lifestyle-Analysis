@@ -16,7 +16,9 @@ nutrition-123.xlsx
 
 ---
 Dashboard Preview
+
 ![Dashboard](https://github.com/user-attachments/assets/89b637f4-977f-42a4-9770-8f04bcec18c7)
+
 ---
 
 📊 Dataset Description
