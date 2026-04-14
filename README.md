@@ -3,8 +3,6 @@
 
 The Nutrition & Lifestyle Insights Dashboard project analyzes how daily habits like diet, exercise, sleep, and hydration affect overall health. Using Microsoft Excel, the project transforms raw data into meaningful insights through pivot tables and an interactive dashboard.
 
-![Dashboard](https://github.com/user-attachments/assets/89b637f4-977f-42a4-9770-8f04bcec18c7)
-
 ---
 
 📂 Project Structure
@@ -16,6 +14,9 @@ nutrition-123.xlsx
 └── dashboard       → Visual insights using charts
 
 
+---
+Dashboard Preview
+![Dashboard](https://github.com/user-attachments/assets/89b637f4-977f-42a4-9770-8f04bcec18c7)
 ---
 
 📊 Dataset Description
